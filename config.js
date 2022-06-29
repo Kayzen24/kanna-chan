@@ -56,16 +56,16 @@ global.ppulsa2 = '081213184348'
 global.psaweria = 'https://saweria.com/XyroBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Xyro BOT'
-global.nameown = 'XDIT'
+global.nomorbot = '628388034138'
+global.nomorown = '6281213184348'
+global.namebot = 'Not BOT'
+global.nameown = 'Notz Store'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
+  ['6281213184348'],
+  ['628388034130'],
   ['18126338970'],
   ['62831433937633', ' Own Xyro Bot', true]
   // [number, dia creator/owner?, dia developer?]
@@ -112,13 +112,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Xyro BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Xyro - Ygy˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Xyro 𝗕𝗢𝗧'
+global.wm = '                「 Notz BOT あ⁩ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Notz - Ygy˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Notz 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Noxzen Store あ⁩ 」'
 
 
 /*============== LOGO ==============*/
